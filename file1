@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2> enter the text <h2>
+<form>
+  <label for="fname">first name : </lable>
+<br>
+  <input type="text" id="fname" name="fname">
+ <br>
+ </form>
+ </body>
+ </html>
+  
